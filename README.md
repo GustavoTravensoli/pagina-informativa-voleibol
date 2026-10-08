@@ -12,4 +12,4 @@ Este projeto consiste em uma página web estática e responsiva em formato de ar
 
 ## 🚀 Link do Projeto Publicado
 Acesse o site rodando publicamente através do link abaixo:
-*   [👉 CLIQUE AQUI PARA ACESSAR O SITE](https://github.com/GustavoTravensoli)
+*   👉 [https://github.com/GustavoTravensoli]
